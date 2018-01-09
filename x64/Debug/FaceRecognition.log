@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  FaceSwapper.cpp
+c:\users\misha\desktop\facerecognition\faceswapper.cpp(11): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  FaceRecognition.vcxproj -> C:\Users\Misha\Desktop\FaceRecognition\x64\Debug\FaceRecognition.exe

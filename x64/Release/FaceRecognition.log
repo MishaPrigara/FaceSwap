@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (FaceRecognition.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  FaceSwapper.cpp
+FaceSwapper.cpp(11): warning C4101: e: неиспользованная локальная переменная
+  Source.cpp
+  Создание кода
+  All 4064 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  FaceRecognition.vcxproj -> C:\Users\Misha\Desktop\FaceSwap-webcam\x64\Release\FaceSwap-webcam.exe

@@ -1,0 +1,2 @@
+﻿  Source.cpp
+Source.cpp(30): fatal error C1083: Не удается открыть файл включение: dlib/opencv.h: No such file or directory,
