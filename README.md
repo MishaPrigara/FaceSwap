@@ -10,10 +10,10 @@
 # Some results
 
  - Input:
-	[input0](./images/input0.png)
+	![input0](./images/input0.png)
  
  - Output:
-	[output0](./images/output0.png)
-	[output1](./images/output1.png)
+	![output0](./images/output0.png)
+	![output1](./images/output1.png)
 	
 	
