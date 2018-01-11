@@ -1,6 +1,6 @@
 # FaceSwap-webcam
 
-'FaceSwap-webcam' is 'randomly' swapping all the faces from the webcam. To see it working you have to run 'FaceRecognition.exe'
+'FaceSwap-webcam' is 'randomly' swapping all faces from the webcam. To see it working you have to run 'FaceRecognition.exe'
 
 # Used libraries:
 
